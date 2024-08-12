@@ -1,1 +1,2 @@
-# OptimizationMethods
+## Optimization Methods assignments
+The repository contains all assignments made during the [Optimization Methods](https://search.usi.ch/en/courses/35268198/optimization-methods) course at the Università della Svizzera italiana USI in the Spring semester 2024
